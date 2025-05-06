@@ -1,13 +1,13 @@
 # LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry
 
-**[CVPR 2024]** The repository contains the official implementation of [LEAP-VO](https://github.com/wrchen530/leapvo). We aim to leverage **temporal context with long-term point tracking** to achieve motion estimation, occlusion handling, and track probability modeling.
+**[CVPR 2024]** The repository contains the official implementation of [LEAP-VO](https://github.com/chiaki530/leapvo). We aim to leverage **temporal context with long-term point tracking** to achieve motion estimation, occlusion handling, and track probability modeling.
 
 
 > **LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**<br> 
-> [Weirong Chen](https://wrchen530.github.io/), [Le Chen](https://clthegoat.github.io/), [Rui Wang](https://rui2016.github.io/), [Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)<br> 
+> [Weirong Chen](https://chiaki530.github.io/), [Le Chen](https://clthegoat.github.io/), [Rui Wang](https://rui2016.github.io/), [Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)<br> 
 > CVPR 2024
 
-**[[Paper](https://arxiv.org/abs/2401.01887)] [[Project Page](https://wrchen530.github.io/projects/leapvo/)]**
+**[[Paper](https://arxiv.org/abs/2401.01887)] [[Project Page](https://chiaki530.github.io/projects/leapvo/)]**
 
 <div align="center">
   <p align="center">
@@ -24,7 +24,7 @@ The code was tested on Ubuntu 20.04, PyTorch 1.12.0, CUDA 11.3 with 1 NVIDIA GPU
 
 ### Clone the repo
 ```
-git clone https://github.com/wrchen530/leapvo.git
+git clone https://github.com/chiaki530/leapvo.git
 cd leapvo 
 ```
 
