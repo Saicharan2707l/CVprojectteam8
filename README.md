@@ -26,6 +26,13 @@
   </a>
 </p>
 </div>
+<div align="center">
+  <p align="center">
+  <a href="">
+    <img src="./assets/Davis1.png" alt="Logo" width="70%">
+  </a>
+</p>
+</div>
 
 
 ## Installation
